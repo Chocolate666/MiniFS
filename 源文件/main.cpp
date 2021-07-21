@@ -1,18 +1,16 @@
 /**
  *	main.cpp
  *
- *		Copyright (c) 2018 AlphaBeta Team. All rights reserved.
+ *		Copyright (c) 2021 Chocolate Team. All rights reserved.
  *
  *	This is application of Mini File System.
  *
  *
  *	Mini File System Project:
- *		Team:		AlphaBeta.
- *		Member:		Linfeng Li, Runbang Xu, Bole Ma, Chi Zhang, Dalin Miao.
- *		Tutor:		Chunxia Zhang, Shuoying Chen.
- *		Company:	School of Computer Science, Beijing Institute of Technology.
+ *		Team:		Chocolate.
+ *		Member:		AtomWhisky, ProphetOOO, LimitCoco, Colorful, DreamTalk.
  *		Version:	3.2.13 (Release).
- *		Submit:		September 11th, 2018.
+ *		Submit:		July 21st, 2021.
  *
 **/
 
